@@ -44,7 +44,10 @@ with open(list) as url_file:
         print("Sleeping "+str(t))
         print("")
         time.sleep(t)
-
+Print ("")
+Print ("")
+Print ("")
+print("###### COMPLETE ######")
 
 
 
